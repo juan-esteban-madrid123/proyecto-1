@@ -1,0 +1,112 @@
+.cuadrado{
+	background-color:#969B92;
+	position:absolute;
+	left:0%;
+	height:12%;
+	width:100%;
+	top:0%;
+	opacity:100%;
+
+
+}
+
+.titulopag{
+	font-size:250%;
+	font-family:Arial;
+	margin-top:0.9%;
+	margin-left:30%;
+
+}
+.primerP{
+	background-color:#93F942;
+	position:absolute;
+	left:0%;
+	top:12%;
+	height:22%;
+	width:49.6%;
+	opacity:100%;
+
+	
+}
+
+.Letra1{
+	font-size:220%;
+	font-family:century Gothic;
+	margin-top:6%;
+	margin-left:33%;
+	color: black;
+	
+}
+.segundoP{
+	background-color:#726F72;
+	position:absolute;
+	left:49.6%;
+	top:12%;
+	height:22%;
+	width:50%;
+	opacity:100%;
+	color: black;
+
+
+}
+
+.Letra2{
+	font-size:220%;
+	font-family:Century Gothic;
+	margin-top:5%;
+	margin-left:40%;
+	color: black;
+
+}
+.tercerP{
+	background-color:#7A0CC1;
+	position:absolute;
+	left:0%;
+	top:34%;
+	height:21.5%;
+	width:49.6%;
+	opacity:100%;
+	
+}
+
+
+
+.Letra3{
+	font-size:250%;
+	font-family:Century Gothic;
+	margin-top:5%;
+	margin-left:33%;
+	color: black;
+}
+.cuartoP{
+	background-color:red;
+	position:absolute;
+	left:49.6%;
+	top:34%;
+	height:21.5%;
+	width:50%;
+	opacity:100%;
+	color: black;
+
+
+}
+.Letra4{
+	font-size:250%;
+	font-family:Century Gothic;
+	margin-top:5%;
+	margin-left:40%;
+	color: black;
+}
+.primero{
+	
+	color:black;
+}
+.cua{
+	background-color:#969B92;
+	position:absolute;
+	left:0%;
+	height:12%;
+	width:100%;
+	top:0%;
+	opacity:100%;
+}
